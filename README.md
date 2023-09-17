@@ -1,8 +1,8 @@
 
 
-# Introspide - Tesco.com Scraper
+# Introspider - Tesco.com Scraper
 
-Introspide is a Python Scrapy spider designed to scrape product data from Tesco.com, one of the largest e-commerce platforms. This spider allows you to gather product information such as name, price, and other relevant details.
+Introspider is a Python Scrapy spider designed to scrape product data from Tesco.com, one of the largest e-commerce platforms. This spider allows you to gather product information such as name, price, and other relevant details.
 
 ## Installation
 
