@@ -1,6 +1,4 @@
-Certainly! Here's the README in Markdown format for your GitHub repository:
 
----
 
 # Introspide - Tesco.com Scraper
 
@@ -13,8 +11,8 @@ Before running the scraper, make sure you have Python and Scrapy installed on yo
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/introspide.git
-   cd introspide
+   git clone https://github.com/basudab/Scrapy_projects.git
+   cd intro/intro
    ```
 
 2. **Install Python and Scrapy:**
@@ -27,7 +25,7 @@ Before running the scraper, make sure you have Python and Scrapy installed on yo
 
 ## Usage
 
-Navigate to the `intro` folder in your command prompt or Python shell.
+Navigate to the `intro/intro` folder in your command prompt or Python shell.
 
 To run the scraper and save the output in JSON format, use the following command:
 
